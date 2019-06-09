@@ -1,0 +1,10 @@
+{
+	entry = {
+		bundle = VCallerScreenPrefs;
+		cell = PSLinkCell;
+		detail = "VCSPrefsListController";
+		icon = "icon.png";
+		isController = 1;
+		label = "VCaller Screen";
+	};
+}

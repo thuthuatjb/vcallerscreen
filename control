@@ -1,0 +1,9 @@
+Package: com.thuthuatjb.vcallers
+Name: VCaller Screen
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11)
+Version: 2.0
+Architecture: iphoneos-arm
+Description: VCaller Screen
+Maintainer: TTJB
+Author: TTJB
+Section: Tweaks

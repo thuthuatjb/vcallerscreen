@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ARE_YOU_SURE</key>
+	<string>Bạn chắc chứ?</string>
+	<key>CANCEL</key>
+	<string>Huỷ</string>
+	<key>CHOOSE_VIDEO</key>
+	<string>Chọn Video</string>
+	<key>CLEAR_VIDEO</key>
+	<string>Xoá Video</string>
+	<key>FIND_MORE_TWEAK</key>
+	<string>Tìm kiếm nhiều tweak hơn ở repo của chúng tôi</string>
+	<key>FOLLOW_US_ON_FB</key>
+	<string>Theo dõi chúng tôi trên Facebook</string>
+	<key>HS_VIDEO</key>
+	<string>Video hình nền màn hình chính</string>
+	<key>LS_VIDEO</key>
+	<string>Video màn hình khoá và trung tâm thông báo</string>
+	<key>MAKE_VIDEO_RINGTONE</key>
+	<string>Tạo nhạc chuông từ Video</string>
+	<key>NOITICE</key>
+	<string>Yêu cầu Respring để áp dụng các thay đổi.</string>
+	<key>SUPPORT_US</key>
+	<string>Cách để bạn giúp chúng tôi phát triển</string>
+	<key>TUTORIAL_RINGTONE</key>
+	<string>Làm thế nào để tạo nhạc chuông từ âm thanh của Video?</string>
+	<key>VIDEO_CALLER</key>
+	<string>Video cuộc gọi</string>
+</dict>
+</plist>

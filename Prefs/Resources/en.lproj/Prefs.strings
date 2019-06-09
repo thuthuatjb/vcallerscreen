@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ARE_YOU_SURE</key>
+	<string>Are you sure?</string>
+	<key>CANCEL</key>
+	<string>Cencel</string>
+	<key>CHOOSE_VIDEO</key>
+	<string>Choose Video</string>
+	<key>CLEAR_VIDEO</key>
+	<string>Delete Video</string>
+	<key>FIND_MORE_TWEAK</key>
+	<string>Search more tweaks at our repo</string>
+	<key>FOLLOW_US_ON_FB</key>
+	<string>Follow us on Facebook</string>
+	<key>HS_VIDEO</key>
+	<string>Video wallpaper in the home screen</string>
+	<key>LS_VIDEO</key>
+	<string>Video wallpaper in the lock screen</string>
+	<key>MAKE_VIDEO_RINGTONE</key>
+	<string>Create ringtones from Video</string>
+	<key>NOITICE</key>
+	<string>Required Respring to apply effects.</string>
+	<key>SUPPORT_US</key>
+	<string>The way for you to help us</string>
+	<key>TUTORIAL_RINGTONE</key>
+	<string>How to get your ringtone from the selected video sound ?</string>
+	<key>VIDEO_CALLER</key>
+	<string>Video Caller Screen</string>
+</dict>
+</plist>
